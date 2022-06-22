@@ -1,3 +1,3 @@
-[submodule "Arch-lab"]
-	path = Arch-lab
+[submodule "arch-lab"]
+	path = arch-lab
 	url = git@github.com:zhenghang1/Arch-labs.git
