@@ -1,0 +1,25 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab06.srcs/sources_1/imports/sources_1/imports/ALU.v" \
+"../../../../lab06.srcs/sources_1/imports/sources_1/imports/ALUCtr.v" \
+"../../../../lab06.srcs/sources_1/imports/sources_1/imports/Ctr.v" \
+"../../../../lab06.srcs/sources_1/new/EXMA_REG.v" \
+"../../../../lab06.srcs/sources_1/new/Forward.v" \
+"../../../../lab06.srcs/sources_1/new/IDEX_REG.v" \
+"../../../../lab06.srcs/sources_1/new/IFID_REG.v" \
+"../../../../lab06.srcs/sources_1/imports/sources_1/new/InstMemory.v" \
+"../../../../lab06.srcs/sources_1/new/Jump_Ctr.v" \
+"../../../../lab06.srcs/sources_1/new/MAWB_REG.v" \
+"../../../../lab06.srcs/sources_1/imports/sources_1/new/MUX.v" \
+"../../../../lab06.srcs/sources_1/imports/sources_1/new/REGMUX.v" \
+"../../../../lab06.srcs/sources_1/imports/sources_1/imports/Registers.v" \
+"../../../../lab06.srcs/sources_1/imports/sources_1/new/Top.v" \
+"../../../../lab06.srcs/sources_1/imports/sources_1/imports/data_Memory.v" \
+"../../../../lab06.srcs/sources_1/imports/sources_1/imports/signext.v" \
+"../../../../lab06.srcs/sim_1/new/top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

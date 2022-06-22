@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Archlabs/lab04/lab04.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Archlabs/lab04/lab04.srcs/sim_1/new/data_Memory_tb.v,1650523458,verilog,,,,dataMemory_tb,,,,,,,,
+C:/Archlabs/lab04/lab04.srcs/sources_1/new/data_Memory.v,1650523720,verilog,,C:/Archlabs/lab04/lab04.srcs/sim_1/new/data_Memory_tb.v,,dataMemory,,,,,,,,
